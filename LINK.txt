@@ -1,3 +1,11 @@
 01|All Night Set|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/All%20Night%20Set.zip
 02|Aubrey Hair Set|https://huggingface.co/datasets/aenimaaa/aubreyhair/resolve/main/Aubrey%20Hairset.zip
 03|August Collection|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/August%20Collection.zip
+04|2022 Collection|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/2022%20Collection.zip
+05|Baby its Cold Outside|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Baby%20its%20Cold%20outside.zip
+06|Barbie Collection|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Baby%20its%20Cold%20outside.zip
+07|Canela Set|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Canela%20Set%20(20%20items).zip
+08|City Adventurer Collection|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/City%20Adventurer%20Collection%20(14%20Items).zip
+09|Doulce Set|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Doulce%20Set%20(10%20Items).zip
+10|Euphoria Collection|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/City%20Adventurer%20Collection%20(14%20Items).zip
+11|Feels Like Summer Collection|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Feels%20Like%20Summer%20Collection%20(9%20Items).zip
