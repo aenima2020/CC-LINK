@@ -1,6 +1,3 @@
 01|All Night Set|https://i.imgur.com/83XNiHp.jpeg|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/All%20Night%20Set.zip
 02|Aubrey Hair Set|https://i.imgur.com/ClgDZyg.png|https://huggingface.co/datasets/aenimaaa/aubreyhair/resolve/main/Aubrey%20Hairset.zip
-01|All Night Set|https://i.imgur.com/83XNiHp.jpeg|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/All%20Night%20Set.zip
-02|Aubrey Hair Set|https://i.imgur.com/ClgDZyg.png|https://huggingface.co/datasets/aenimaaa/aubreyhair/resolve/main/Aubrey%20Hairset.zip
-01|All Night Set|https://i.imgur.com/83XNiHp.jpeg|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/All%20Night%20Set.zip
-02|Aubrey Hair Set|https://i.imgur.com/ClgDZyg.png|https://huggingface.co/datasets/aenimaaa/aubreyhair/resolve/main/Aubrey%20Hairset.zip
+03|August Collection|https://i.imgur.com/ClgDZyg.png|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/August%20Collection.zip
