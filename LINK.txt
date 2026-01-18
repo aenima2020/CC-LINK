@@ -10,4 +10,4 @@
 10|Euphoria Collection|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/City%20Adventurer%20Collection%20(14%20Items).zip
 11|Feels Like Summer Collection|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Feels%20Like%20Summer%20Collection%20(9%20Items).zip
 12|Florence|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Florence%20(7%20Items).zip
-13|Florence|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Frostine%20(9%20Items).zip
+13|Frostinee|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Frostine%20(9%20Items).zip
