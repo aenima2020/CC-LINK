@@ -11,3 +11,10 @@
 11|Feels Like Summer Collection|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Feels%20Like%20Summer%20Collection%20(9%20Items).zip
 12|Florence|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Florence%20(7%20Items).zip
 13|Frostinee|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Frostine%20(9%20Items).zip
+14|Aurora Collection|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Aurora%20Collection.zip
+15|Hair Pack|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Hair%20Pack%20Part%201%20(31%20Items).zip
+16|Hijab Pack|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Hijab%20Pack%201%20(29%20Items).zip
+17|Human Made Collection|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Human%20Made%20Collection%20(10%20Items).zip
+18|Korean Female Pack|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Korean%20Female%20Pack.zip
+19|Lily Set|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Lily%20Set%20(8%20Items).zip
+20|The Gossip Collection|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/The%20Gossip%20Collection%20(20%20Items).zip
