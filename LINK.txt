@@ -1,20 +1,40 @@
-01|All Night Set|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/All%20Night%20Set.zip
-02|Aubrey Hair Set|https://huggingface.co/datasets/aenimaaa/aubreyhair/resolve/main/Aubrey%20Hairset.zip
-03|August Collection|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/August%20Collection.zip
-04|2022 Collection|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/2022%20Collection.zip
-05|Baby its Cold Outside|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Baby%20its%20Cold%20outside.zip
-06|Barbie Collection|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Baby%20its%20Cold%20outside.zip
-07|Canela Set|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Canela%20Set%20(20%20items).zip
-08|City Adventurer Collection|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/City%20Adventurer%20Collection%20(14%20Items).zip
-09|Doulce Set|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Doulce%20Set%20(10%20Items).zip
-10|Euphoria Collection|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/City%20Adventurer%20Collection%20(14%20Items).zip
-11|Feels Like Summer Collection|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Feels%20Like%20Summer%20Collection%20(9%20Items).zip
-12|Florence|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Florence%20(7%20Items).zip
-13|Frostinee|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Frostine%20(9%20Items).zip
-14|Aurora Collection|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Aurora%20Collection.zip
-15|Hair Pack|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Hair%20Pack%20Part%201%20(31%20Items).zip
-16|Hijab Pack|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Hijab%20Pack%201%20(29%20Items).zip
-17|Human Made Collection|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Human%20Made%20Collection%20(10%20Items).zip
-18|Korean Female Pack|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Korean%20Female%20Pack.zip
-19|Lily Set|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/Lily%20Set%20(8%20Items).zip
-20|The Gossip Collection|https://huggingface.co/datasets/aenimaaa/ALLNIGHTSET/resolve/main/The%20Gossip%20Collection%20(20%20Items).zip
+01|All Night Set|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/All%20Night%20Set.zip
+02|Aubrey Hair Set|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Aubrey%20Hairset.zip
+03|August Collection|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/August%20Collection.zip
+04|2022 Collection|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/2022%20Collection.zip
+05|Baby its Cold Outside|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Baby%20its%20Cold%20outside.zip
+06|Barbie Collection|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Barbie%20Collection%20CC.zip
+07|Canela Set|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Canela%20Set.zip
+08|City Adventurer Collection|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/City%20Adventurer%20Collection.zip
+09|Doulce Set|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Doulce%20Set.zip
+10|Euphoria Collection|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Euphoria%20Collection.zip
+11|Feels Like Summer Collection|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Feels%20Like%20Summer%20Collection.zip
+12|Florence|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Florence.zip
+13|Frostinee|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Frostine.zip
+14|Aurora Collection|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Aurora%20Collection.zip
+15|Hair Pack|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Hair%20Pack.zip
+16|Hijab Pack|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Hijab%20Pack.zip
+17|Human Made Collection|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Human%20Made%20Collection.zip
+18|Korean Female Pack|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Korean%20Female%20Pack.zip
+19|Lily Set|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Lily%20Set.zip
+20|The Gossip Collection|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/The%20Gossip%20Collection.zip
+21|Lovebirds Collection|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Lovebirds%20Collection.zip
+22|Pretty Brutal|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Pretty%20Brutal.zip
+23|School Collection Pt.1|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/School%20Collection%20Pt.1.zip
+24|The Bratz Collection|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/The%20Bratz%20Collection.zip
+25|The Greenhouse Collection|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Greenhouse%20Collection.zip
+26|The Paparazzi Pt.1|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/The%20Paparazzi%20Collection%20Pt.1.zip
+27|The Paparazzi Pt.2|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/The%20Paparazzi%20Collection%20Pt.2.zip
+28|Vespera Collection|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Vespera%20Collection.zip
+29|New Gift Box 1|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/New%20Gift%20Box%201.zip
+30|New Gift Box 2|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/New%20Gift%20Box%202.zip
+31|New Gift Box 3|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/New%20Gift%20Box%203.zip
+32|New Gift Box 4|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/New%20Gift%20Box%204.zip
+33|New Gift Box 5|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/New%20Gift%20Box%205.zip
+34|New Gift Box 6|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/New%20Gift%20Box%206.zip
+35|New Gift Box 7|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/New%20Gift%20Box%207.zip
+36|New Gift Box 8|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/New%20Gift%20Box%208.zip
+37|New Gift Box 9|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/New%20Gift%20Box%209.zip
+38|New Gift Box 10|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/New%20Gift%20Box%2010.zip
+39|New Gift Box 11|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/New%20Gift%20Box%2011.zip
+40|New Gift Box 30|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/New%20Gift%20Box%2030.zip
