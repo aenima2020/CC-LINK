@@ -38,3 +38,17 @@
 38|New Gift Box 10|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/New%20Gift%20Box%2010.zip
 39|New Gift Box 11|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/New%20Gift%20Box%2011.zip
 40|New Gift Box 30|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/New%20Gift%20Box%2030.zip
+41|[SEOULSOUL] 2024_#16|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202024_%2316.zip
+42|[SEOULSOUL] 2024_#50|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202024_%2350.zip
+43|[SEOULSOUL] 2025_#88|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202025_%2388.zip
+44|[SEOULSOUL] 2025_#89|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202025_%2389.zip
+45|[SEOULSOUL] 2025_#93|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202025_%2393.zip
+46|[SEOULSOUL] 2025_#98|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202025_%2398.zip
+47|[SEOULSOUL] 2025_#110|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202025_%23110.zip
+48|[SEOULSOUL] 2025_#113|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202025_%23113.zip
+49|[SEOULSOUL] Fog Hair|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%20Fog%20Hair.zip
+50|[SEOULSOUL] HAIR HUSH CUT|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%20HAIR%20HUSH%20CUT.zip
+51|[SEOULSOUL] HAIR HUSH CUT V2|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%20HAIR%20HUSH%20CUT%20V2.zip
+52|[SEOULSOUL] HAIR_N28|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%20HAIR_N28.zip
+53|[SEOULSOUL] Straight Hair|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%20Straight%20Hair.zip
+54|[SEOULSOUL] Straight Set|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%20Straight%20Set.zip
