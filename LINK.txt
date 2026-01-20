@@ -52,3 +52,12 @@
 52|[SEOULSOUL] HAIR_N28|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%20HAIR_N28.zip
 53|[SEOULSOUL] Straight Hair|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%20Straight%20Hair.zip
 54|[SEOULSOUL] Straight Set|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%20Straight%20Set.zip
+55|Alena Hair|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Alena%20Hair.zip
+56|Butter Skin|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Butter%20Skin.zip
+57|Date Night Makeup Set|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Date%20Night%20Makeup%20Set.zip
+58|Doe Skin|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Doe%20Skin.zip
+59|Dreamy Nails|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Dreamy%20Nails.zip
+60|Euno|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Euno.zip
+61|Eyebrow Set No10|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Eyebrow%20Set%20No10.zip
+63|Saori Hair|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Saori%20Hair.zip
+63|TrueGlow|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/TrueGlow.zip
