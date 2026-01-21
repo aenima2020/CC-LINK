@@ -61,3 +61,10 @@
 61|Eyebrow Set No10|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Eyebrow%20Set%20No10.zip
 62|Saori Hair|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Saori%20Hair.zip
 63|TrueGlow|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/TrueGlow.zip
+64|Hair N65|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BHezeh%5Dhair_no_65_HQ.zip
+65|Hair N68|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BHezeh%5Dhair_no_68_v1_HQ.zip
+66|Hair N100|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/MOOOD_HAIR_100.zip
+67|The Big Day Collection|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/The%20Big%20Day%20Collection.zip
+68|The Pompom Collection|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/The%20Pompom%20Collection%20by%20Serenity-cc%20(9%20items).zip
+69|The Sophomore Collection|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/The%20Sophomore%20Collection%20-%20Sentate's%20CC.zip
+70|The Vetiver Collection|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/The%20Vetiver%20Collection%20by%20Serenity.zip
