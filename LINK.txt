@@ -88,3 +88,42 @@
 88|The Sandalwood Set|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/The%20Sandalwood%20Set%20(9%20items).zip
 89|The Vacanza Collection|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/The%20Vacanza%20Collection%20(16%20items).zip
 90|Vanilla Set|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Vanilla%20Set%20(14%20items).zip
+91|Aaron Hair|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Aaron%20Hair.zip
+92|Amelia Hair|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Amelia%20Hair.zip
+93|Bangs Set|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Bangs%20Set.zip
+94|Billie Hair Set|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Billie%20Hair%20Set.zip
+95|Bloom Dress|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Bloom%20Dress.zip
+96|Brandy Hair|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Brandy%20Hair.zip
+97|Cherry Makeup|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Cherry%20Makeup.zip
+98|Cloud Eyes|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Cloud%20Eyes.zip
+99|Coco Hair Set|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Coco%20Hair%20Set.zip
+100|Dark Hour Makeup Set|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Dark%20Hour%20Makeup%20Set.zip
+101|Elegence Set Daisy|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Elegance%20Set%20Daisy.zip
+102|Eye Candy|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Eye%20Candy.zip
+103|Fawn Skin|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Fawn%20Skin.zip
+104|Fresh Cut Set|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Fresh%20Cut%20Set.zip
+105|Glass Skin|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Glass%20Skin.zip
+106|Glow Makeup Set|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Glow%20Makeup%20Set.zip
+107|Heatwave Makeup|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Heatwave%20Makeup.zip
+108|Heide Hair|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Heidi%20Hair.zip
+109|Honey Hair|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Honey%20Hair.zip
+110|Hot Shot Collection|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Hot%20Shot%20Collection.zip
+111|Janie Braids|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Janie%20Braids.zip
+112|Juno Hair|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Juno%20Hair.zip
+113|Lara Skin|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Lara%20Skin.zip
+114|Latte Set|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Latte%20Set.zip
+115|Lounge Set|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Lounge%20Set.zip
+116|Mary Hair|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Mary%20Hair.zip
+117|Mikey Hair|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Mikey%20Hair.zip
+118|Oregon Hair|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Oregon%20Hair.zip
+119|Panama Hair|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Panama%20Hair.zip
+120|Philomena Hair|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Philomena%20Hair.zip
+121|Sabre Hair|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Sabre%20Hair.zip
+122|Sawyer Hair|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Sawyer%20Hair.zip
+123|Slayer Makeup Set|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Slayer%20Makeup%20Set.zip
+124|Soft Glam Makeup Set|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Soft%20Glam%20Makeup%20Set.zip
+125|Spiceberry Lipstick|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Spiceberry%20Lipstick.zip
+126|Stardust Outfit|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Stardust%20Outfit.zip
+127|Stassie Ponytail|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Stassie%20Ponytail.zip
+128|Tulip Dress|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Tulis%20Dress.zip
+129|Xianna Buns|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Xianna%20Buns.zip
