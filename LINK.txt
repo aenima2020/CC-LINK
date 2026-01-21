@@ -68,3 +68,23 @@
 68|The Pompom Collection|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/The%20Pompom%20Collection%20by%20Serenity-cc%20(9%20items).zip
 69|The Sophomore Collection|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/The%20Sophomore%20Collection%20-%20Sentate's%20CC.zip
 70|The Vetiver Collection|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/The%20Vetiver%20Collection%20by%20Serenity.zip
+71|Apple Set|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Apple%20Set%20(9%20items).zip
+72|Apricot Set|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Apricot%20Set%20(7%20items).zip
+73|Barbara Set|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Barbara%20Set%20(9%20items).zip
+74|Camelia Set|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Camelia%20Set%20(9%20items).zip
+75|CocoDress|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/CocoDress.zip
+76|Dahlia Set|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Dahlia%20Set%20(12%20items).zip
+77|Fade Set|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Fade%20Set%20(6%20items).zip
+78|Hazelnut Set|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Hazelnut%20Set%20(12%20items).zip
+79|LIFT!|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/LIFT!%20(28%20items).zip
+80|Neve Set|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Neve%20Set%20(12%20items).zip
+81|Nomade Set|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Nomade%20Set%20(15%20items).zip
+82|Orquideas Set|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Orquideas%20Set%20(17%20items).zip
+83|Pistachio Set|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Pistachio%20Set%20(6%20items).zip
+84|Poison Set|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Poison%20Set%20(8%20items).zip
+85|Sparks Set|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Sparks%20Set%20(5%20items).zip
+86|SxV Year of the Rabbit|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/SxV%20Year%20of%20the%20Rabbit.zip
+87|The Heartbeat|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/The%20Heartbeat.zip
+88|The Sandalwood Set|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/The%20Sandalwood%20Set%20(9%20items).zip
+89|The Vacanza Collection|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/The%20Vacanza%20Collection%20(16%20items).zip
+90|Vanilla Set|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Vanilla%20Set%20(14%20items).zip
