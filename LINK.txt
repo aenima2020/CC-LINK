@@ -38,20 +38,20 @@
 38|New Gift Box 10|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/New%20Gift%20Box%2010.zip
 39|New Gift Box 11|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/New%20Gift%20Box%2011.zip
 40|New Gift Box 30|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/New%20Gift%20Box%2030.zip
-41|[SEOULSOUL] 2024_#16|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202024_%2316.zip
-42|[SEOULSOUL] 2024_#50|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202024_%2350.zip
-43|[SEOULSOUL] 2025_#88|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202025_%2388.zip
-44|[SEOULSOUL] 2025_#89|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202025_%2389.zip
-45|[SEOULSOUL] 2025_#93|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202025_%2393.zip
-46|[SEOULSOUL] 2025_#98|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202025_%2398.zip
-47|[SEOULSOUL] 2025_#110|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202025_%23110.zip
-48|[SEOULSOUL] 2025_#113|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202025_%23113.zip
-49|[SEOULSOUL] Fog Hair|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%20Fog%20Hair.zip
-50|[SEOULSOUL] HAIR HUSH CUT|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%20HAIR%20HUSH%20CUT.zip
-51|[SEOULSOUL] HAIR HUSH CUT V2|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%20HAIR%20HUSH%20CUT%20V2.zip
-52|[SEOULSOUL] HAIR_N28|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%20HAIR_N28.zip
-53|[SEOULSOUL] Straight Hair|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%20Straight%20Hair.zip
-54|[SEOULSOUL] Straight Set|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%20Straight%20Set.zip
+41|SEOULSOUL 2024_#16|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202024_%2316.zip
+42|SEOULSOUL 2024_#50|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202024_%2350.zip
+43|SEOULSOUL 2025_#88|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202025_%2388.zip
+44|SEOULSOUL 2025_#89|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202025_%2389.zip
+45|SEOULSOUL 2025_#93|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202025_%2393.zip
+46|SEOULSOUL 2025_#98|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202025_%2398.zip
+47|SEOULSOUL 2025_#110|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202025_%23110.zip
+48|SEOULSOUL 2025_#113|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%202025_%23113.zip
+49|SEOULSOUL Fog Hair|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%20Fog%20Hair.zip
+50|SEOULSOUL HAIR HUSH CUT|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%20HAIR%20HUSH%20CUT.zip
+51|SEOULSOUL HAIR HUSH CUT V2|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%20HAIR%20HUSH%20CUT%20V2.zip
+52|SEOULSOUL HAIR_N28|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%20HAIR_N28.zip
+53|SEOULSOUL Straight Hair|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%20Straight%20Hair.zip
+54|SEOULSOUL Straight Set|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/%5BSEOULSOUL%5D%20Straight%20Set.zip
 55|Alena Hair|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Alena%20Hair.zip
 56|Butter Skin|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Butter%20Skin.zip
 57|Date Night Makeup Set|https://huggingface.co/datasets/aenimaaa/cc/resolve/main/Date%20Night%20Makeup%20Set.zip
@@ -127,3 +127,14 @@
 127|Stassie Ponytail|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Stassie%20Ponytail.zip
 128|Tulip Dress|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Tulis%20Dress.zip
 129|Xianna Buns|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Xianna%20Buns.zip
+130|[NEW]Cálido|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/C%C3%A1lido.zip
+131|[NEW]Cottage Collection|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Cottage%20Collection.zip
+132|[NEW]Floraful|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Floraful.zip
+133|[NEW]GlamAffair Laika Skin|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/GlamAffair%20Laika%20Skin.zip
+134|[NEW]Lovito|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Lovito.zip
+135|[NEW]Orchid|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Orchid.zip
+136|[NEW]Pajama Party|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Pajama%20Party.zip
+137|[NEW]Sunny Day|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Sunny%20Day.zip
+138|[NEW]The Idol|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/The%20Idol.zip
+139|[NEW]Timberland|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Timberland.zip
+140|[NEW]Tres Beau Farah Skin|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Tres%20Beau%20Farah%20Skin.zip
