@@ -127,7 +127,7 @@
 127|Stassie Ponytail|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Stassie%20Ponytail.zip
 128|Tulip Dress|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Tulis%20Dress.zip
 129|Xianna Buns|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Xianna%20Buns.zip
-130|[NEW]Cálido|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/C%C3%A1lido.zip
+130|[NEW]Calido|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/C%C3%A1lido.zip
 131|[NEW]Cottage Collection|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Cottage%20Collection.zip
 132|[NEW]Floraful|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Floraful.zip
 133|[NEW]GlamAffair Laika Skin|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/GlamAffair%20Laika%20Skin.zip
