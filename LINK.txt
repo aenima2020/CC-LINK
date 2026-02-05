@@ -127,14 +127,22 @@
 127|Stassie Ponytail|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Stassie%20Ponytail.zip
 128|Tulip Dress|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Tulis%20Dress.zip
 129|Xianna Buns|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Xianna%20Buns.zip
-130|[NEW]Calido|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/C%C3%A1lido.zip
-131|[NEW]Cottage Collection|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Cottage%20Collection.zip
-132|[NEW]Floraful|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Floraful.zip
-133|[NEW]GlamAffair Laika Skin|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/GlamAffair%20Laika%20Skin.zip
-134|[NEW]Lovito|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Lovito.zip
-135|[NEW]Orchid|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Orchid.zip
-136|[NEW]Pajama Party|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Pajama%20Party.zip
-137|[NEW]Sunny Day|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Sunny%20Day.zip
-138|[NEW]The Idol|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/The%20Idol.zip
-139|[NEW]Timberland|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Timberland.zip
-140|[NEW]Tres Beau Farah Skin|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Tres%20Beau%20Farah%20Skin.zip
+130|Calido|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/C%C3%A1lido.zip
+131|Cottage Collection|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Cottage%20Collection.zip
+132|Floraful|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Floraful.zip
+133|GlamAffair Laika Skin|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/GlamAffair%20Laika%20Skin.zip
+134|Lovito|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Lovito.zip
+135|Orchid|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Orchid.zip
+136|Pajama Party|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Pajama%20Party.zip
+137|Sunny Day|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Sunny%20Day.zip
+138|The Idol|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/The%20Idol.zip
+139|Timberland|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Timberland.zip
+140|Tres Beau Farah Skin|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Tres%20Beau%20Farah%20Skin.zip
+141|[NEW]Aura Skin Overlay|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Aura%20Skin%20Overlay.zip
+142|[NEW]Baggy Clothing Set|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Baggy%20Clothing%20Set.zip
+143|[NEW]Darling Set|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Darling%20Set.zip
+144|[NEW]Elena Eyes|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Elena%20Eyes.zip
+145|[NEW]Enemy Skin Overlay|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Enemy%20Skin%20Overlay.zip
+146|[NEW]Fae Tie Front Top|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Fae%20Tie%20Front%20Top.zip
+147|[NEW]Harmonia Body Preset|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Harmonia%20Body%20Preset.zip
+148|[NEW]Sweet Neadow Set|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Sweet%20Meadow%20Set.zip
