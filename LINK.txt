@@ -146,15 +146,25 @@
 146|Fae Tie Front Top|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Fae%20Tie%20Front%20Top.zip
 147|Harmonia Body Preset|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Harmonia%20Body%20Preset.zip
 148|Sweet Neadow Set|https://huggingface.co/datasets/aenimaaa/cc2/resolve/main/Sweet%20Meadow%20Set.zip
-149|[NEW]1920s Children's Fashion|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/1920s%20Children's%20Fashion.zip
-150|[NEW]1940s Day Dress|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/1940s%20Day%20Dress.zip
-151|[NEW]Assassination Ahn-Ok-Yun Long Coat|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/Assassination%20Ahn-Ok-Yun%20Long%20Coat.zip
-152|[NEW]Avalon Outfit|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/Avalon%20Outfit.zip
-153|[NEW]Birdcage Veil|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/Birdcage%20Veil.zip
-154|[NEW]Bloom For Me Set|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/Bloom%20For%20Me%20Set.zip
-155|[NEW]Bookish Set|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/Bookish%20Set.zip
-156|[NEW]Cloud Cat Makeup|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/Cloud%20Cat%20Makeup.zip
-157|[NEW]Countryside Chic|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/Countryside%20Chic.zip
-158|[NEW]Countryside Set|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/Countryside%20Set.zip
-159|[NEW]Decode|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/Decode.zip
-160|[NEW]For the Best Set|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/For%20the%20Best%20Set.zip
+149|1920s Children's Fashion|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/1920s%20Children's%20Fashion.zip
+150|1940s Day Dress|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/1940s%20Day%20Dress.zip
+151|Assassination Ahn-Ok-Yun Long Coat|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/Assassination%20Ahn-Ok-Yun%20Long%20Coat.zip
+152|Avalon Outfit|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/Avalon%20Outfit.zip
+153|Birdcage Veil|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/Birdcage%20Veil.zip
+154|Bloom For Me Set|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/Bloom%20For%20Me%20Set.zip
+155|Bookish Set|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/Bookish%20Set.zip
+156|Cloud Cat Makeup|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/Cloud%20Cat%20Makeup.zip
+157|Countryside Chic|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/Countryside%20Chic.zip
+158|Countryside Set|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/Countryside%20Set.zip
+159|Decode|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/Decode.zip
+160|For the Best Set|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/For%20the%20Best%20Set.zip
+161|[NEW]Art Lounge Set|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/Art%20Lounge%20Set.zip
+162|[NEW]Bathroom Noir Set|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/Bathroom%20Noir%20Set.zip
+163|[NEW]Color Pop Lounge Set|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/Color%20Pop%20Lounge%20Set.zip
+164|[NEW]Daily Rituals Set|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/Daily%20Rituals%20Set.zip
+165|[NEW]GirlieZ Collection|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/GirlieZ%20Collection.zip
+166|[NEW]Gloom & Bloom Set|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/Gloom%20%26%20Bloom%20Set.zip
+167|[NEW]Green Thumb Set|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/Green%20Thumb%20Set.zip
+168|[NEW]GRWM Kit|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/GRWM%20Kit.zip
+169|[NEW]Homestyle Haven Set|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/Homestyle%20Haven%20Set.zip
+170|[NEW]If I Told You Set|https://huggingface.co/datasets/aenimaaa/cc3/resolve/main/If%20I%20Told%20You%20Set.zip
